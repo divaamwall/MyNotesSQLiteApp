@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyNotesSQLiteApp</string>
+    <string name="add_note">Tambah Catatan</string>
+    <string name="labelTitleNote">Masukkan Judul</string>
+    <string name="contentNote">Masukkan Deskripsi Note</string>
+    <string name="Note">Catatan</string>
+    <string name="judul">Judul</string>
+    <string name="content">Content</string>
+    <string name="update_note">Update Catatan</string>
+</resources>
